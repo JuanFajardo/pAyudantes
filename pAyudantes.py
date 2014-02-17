@@ -69,7 +69,7 @@ def carreraList(carrera):
 				print datos(r, c)
 			except:
 				print "/* Descanzando un rato en 3 minutos*/"
-				time.sleep(180)
+				time.sleep(120)
 				print datos(r, c)
 		fil.close()
 	except IOError as er:
