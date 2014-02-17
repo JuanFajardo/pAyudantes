@@ -9,14 +9,12 @@ Uso
 python pAyudantes.py
 
 Elige la carrera ;P
--------------------
+
 	 CIV il 
 	 SIS temas 
 	 MEC anica 
 
 Elige la opcion CIV
+
 sql = ('', ...
-
-
-Simple y sencillo
 
